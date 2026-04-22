@@ -1,0 +1,13 @@
+{
+  "name": "metamorfose-landing",
+  "version": "1.0.0",
+  "description": "Metamorfose - Marketing é Transformação",
+  "scripts": {
+    "dev": "npx http-server",
+    "build": "echo 'Static site ready'",
+    "start": "npx http-server"
+  },
+  "keywords": ["marketing", "transformation"],
+  "author": "",
+  "license": "ISC"
+}
